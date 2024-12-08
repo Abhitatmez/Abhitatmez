@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhijith S</h1>
 <h3 align="center">An aspiring IoT developer and UI/UX designer from Chennai,Tamilnadu</h3>
 
-<p align="left"> <a href="https://twitter.com/abhijithtatme" target="blank"><img src="https://img.shields.io/twitter/follow/abhijithtatme?logo=twitter&style=for-the-badge" alt="abhijithtatme" /></a> </p>
-
 - 🌱 Learning & Practicing **IoT development and UI/UX design.**
 
 - 👨‍💻 Visit my portfolio at [https://abhijith.me/](https://abhijith.me/)
